@@ -1,127 +1,100 @@
-<h1 align="center">
-  <img src="https://img.icons8.com/ios/50/00FF00/console.png" width="30" />
-  s1lence
-</h1>
-<p align="center">
-  <i>Observador del sistema digital | Analista metódico | Voz en código</i>
-</p>
+╔════════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║  ███████╗██╗██╗     ███████╗███╗   ██╗ ██████╗███████╗         ║
+║  ██╔════╝██║██║     ██╔════╝████╗  ██║██╔════╝██╔════╝         ║
+║  ███████╗██║██║     █████╗  ██╔██╗ ██║██║     █████╗           ║
+║  ╚════██║██║██║     ██╔══╝  ██║╚██╗██║██║     ██╔══╝           ║
+║  ███████║██║███████╗███████╗██║ ╚████║╚██████╗███████╗         ║
+║  ╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝         ║
+║                                                                 ║
+║                O B S E R V E R   O F   S Y S T E M S            ║
+║                                                                 ║
+╚════════════════════════════════════════════════════════════════╝
+
+s1lence@github:~$ whoami
+> Cybersecurity Student | Data Analyst | Systems Observer
+> Digital Identity: Yoshito Kikuchi-based persona
+> Focus: Privacy, Security, and Silent Execution
+
+s1lence@github:~$ cat skills.txt
+
+🔐 CYBERSECURITY & PRIVACY
+├── Security Engineering (in progress)
+├── Cryptography & Hash Analysis
+├── OSINT Fundamentals
+├── System Hardening
+└── Network Security
+
+💻 PROGRAMMING & DEVELOPMENT
+├── Python [Advanced]
+│   ├── Data Analysis & Processing
+│   ├── Discord Bots & Automation
+│   ├── Pygame & Tool Development
+│   └── Algorithm Implementation
+├── C++ [Intermediate]
+│   ├── Data Structures
+│   ├── Binary Trees & Arrays
+│   └── Algorithm Optimization
+└── SQL [Intermediate]
+    ├── Database Management
+    └── Query Optimization
+
+📊 DATA ANALYSIS & TOOLS
+├── Quantitative & Qualitative Analysis
+├── Data Visualization
+├── Excel Advanced Processing
+├── CSV/Data Normalization
+└── Documentation & Reporting
+
+🛠️ SYSTEMS & INFRASTRUCTURE
+├── Linux Mint/Ubuntu Administration
+├── Windows 10/11 Optimization
+├── OracleVM & Virtualization
+├── Android Emulation
+└── IT Maintenance & Support
+
+🎨 CREATIVE & MANAGEMENT
+├── Digital & Traditional Drawing
+├── Discord Community Management
+├── UML Modeling & PlantUML
+├── SCRUM Methodology
+└── Technical Documentation
+
+🗣️ LANGUAGES
+├── Spanish [Native]
+├── English [Intermediate]
+├── Chinese Mandarin [Basic]
+└── Japanese [Basic]
+
+s1lence@github:~$ ls projects/
+📁 cybersecurity/    # Security tools & research
+📁 data-analysis/    # Data processing scripts
+📁 discord-bots/     # Community management tools
+📁 system-tools/     # Automation & utilities
+📁 experimental/     # Testing & prototypes
+
+s1lence@github:~$ cat philosophy.txt
+"Like Kikuchi, I believe in silent observation before action.
+In the digital realm, understanding precedes intervention.
+Every system has patterns; every pattern tells a story."
+
+s1lence@github:~$ network --connections
+🌐 GitHub:    https://github.com/s1lence-hlm
+🔗 Neocities: https://s1lence.neocities.org
+📧 Email:     [Use GitHub Issues for contact]
+💬 Discord:   s1lence#0000
+
+s1lence@github:~$ status --current
+> 🔄 Learning: Advanced Cybersecurity Concepts
+> 🛠️ Building: Automated Analysis Tools  
+> 🔍 Researching: Privacy Preservation Methods
+> 🌱 Growing: Open Source Contributions
+
+s1lence@github:~$ last-update $(date +%Y-%m-%d)
+> System: Operational
+> Identity: Active
+> Mission: Observing, Learning, Building
 
 ---
-
-### 🧭 Objetivo Principal
-> **Portafolio profesional anónimo**, centrado en:
-- Ciberseguridad, análisis de datos y desarrollo técnico.
-- Presencia en comunidades técnicas (Discord, Neocities, SpaceHey, foros).
-- Marca personal en GitHub mediante proyectos, herramientas y documentación.
-- Identidad narrativa: el **observador silencioso** — reflexivo, preciso y reservado.
-- Sitio web personal con estética terminal y reflexiones sobre sistemas.
-
----
-
-### 🧠 Áreas de Enfoque Profesional
-
-#### 🔐 Ciberseguridad & Seguridad Digital
-- Ingeniería en Ciberseguridad *(en formación)*  
-- Criptografía básica y algoritmos hash  
-- Análisis de vulnerabilidades  
-- Hardening de sistemas operativos  
-- OSINT (Open Source Intelligence)  
-- Seguridad en redes y comunicaciones  
-
----
-
-#### 💻 Programación & Desarrollo
-
-```python
-# Habilidades Python destacadas
-python_skills = [
-    "CSV Processing", "Data Generation", "Algorithm Implementation",
-    "File Handling", "Logging Systems", "Error Handling", 
-    "String Manipulation", "Data Validation", "Randomization Algorithms",
-    "Date/Time Handling", "Weighted Random Selection", "Modulo 11 Algorithm",
-    "Data Normalization", "Configuration Management", "Modular Programming",
-    "Input Validation", "Identity Generation", "Data Synthesis",
-    "Regional Data Processing", "Chilean RUT System", "Geographic Data",
-    "Demographic Modeling", "Code Documentation", "Error Recovery",
-    "User Interface", "Batch Processing", "Data Export", "Professional Logging",
-    "Pygame", "Discord Bots", "Data Analysis", "Excel Automation"
-]
-```
-
-**Lenguajes y Entornos**
-- **Python**: desarrollo de scripts, automatización, análisis, bots.  
-- **C++**: estructuras de datos (árboles binarios, arrays), algoritmos.  
-- **SQL**: consultas, gestión de bases de datos.  
-- **Scripting**: automatización de procesos y manejo de datos.  
-
----
-
-#### 📊 Análisis de Datos & Herramientas
-- Análisis cuantitativo y cualitativo  
-- Procesamiento y limpieza de datos  
-- Visualización y reportes técnicos  
-- Documentación de especificaciones funcionales  
-
----
-
-#### 🛠️ Sistemas & Infraestructura
-**Sistemas Operativos**
-- Linux Mint / Ubuntu → configuración, administración, hardening  
-- Windows 10/11 → optimización, soporte técnico  
-- Virtualización: OracleVM, emulación Android  
-- Herramientas remotas: AnyDesk, TeamViewer  
-
-**Mantenimiento IT**
-- Soporte técnico avanzado  
-- Optimización de sistemas  
-- Configuración de entornos seguros  
-
----
-
-#### 🎨 Herramientas de Desarrollo & Oficina
-- **Office**: Word, PowerPoint, Excel (avanzado), Visio  
-- **Modelado**: PlantUML, Oracle Developer, Oracle Modeler  
-- **Entorno**: Visual Studio Code  
-- **Diseño**: dibujo tradicional y digital *(Paint Tool SAI)*  
-
----
-
-#### 🌐 Gestión de Comunidades & Habilidades Blandas
-- **Moderación Senior (Discord)**  
-  - Staff en comunidades como *Dylantero*, *MoaiGr*, *DeepVoid*  
-  - Administración, configuración y soporte TI  
-  - Coordinación de equipos y metodologías ágiles (SCRUM)  
-  - Diagramado UML y documentación de procesos  
-
----
-
-### 💬 Filosofía Personal
-> “El silencio no es ausencia.  
-> Es observación.  
-> En la red, el que escucha más... comprende mejor.”
-
----
-
-### 📂 Proyectos Destacados
-- 🔹 **Generador de Identidades Chilenas** → Datos sintéticos y RUT válidos 🇨🇱  
-- 🔹 **Herramientas OSINT** → Investigación y análisis de información pública  
-- 🔹 **Discord Bot Tools** → Automatización, moderación y utilidades de servidor  
-- 🔹 **Scripts Python** → Procesamiento, validación y manipulación de datos  
-
----
-
-### 🛰️ Contacto y Presencia
-```
-> ping s1lence-hlm
-> reply: "active"
-```
-- 🌐 [Neocities](#)  
-- 💬 Discord: `s1lence#XXXX`  
-- 🧠 Espacios técnicos: foros, SpaceHey, GitHub Discussions  
-
----
-
-<p align="center">
-  <sub><i>“Observa, comprende, ejecuta.  
-  No todo código necesita ser visto para existir.”</i></sub>
-</p>
+"Silence is not the absence of something, but the presence of everything."
+- Adapted from John Cage
