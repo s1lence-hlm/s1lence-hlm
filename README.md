@@ -1,90 +1,98 @@
+# 🧩 s1lence — Terminal Portfolio
+
 <h1 align="center">
-  <img src="https://img.shields.io/badge/s1lence-%2300FF00.svg?style=for-the-badge&logo=terminal&logoColor=white" alt="s1lence"/>
+  <img src="https://img.icons8.com/ios/50/00FF00/command-line.png" width="35"/>
+  <br>
+  <b>s1lence</b>
 </h1>
 
 <p align="center">
-  <code>s1lence@digital:~$ whoami</code>
+  <i>Cybersecurity Analyst | Python & C++ Developer | Digital Minimalist</i>
 </p>
 
-<h3 align="center">
-  <code>Cybersecurity Analyst | Python & C++ Developer | Terminal Philosopher</code>
-</h3>
-
 ---
 
-## 🖥️ <code>$ cat about_me.txt</code>
+## 🧠 `whoami`
 
-```bash
-Name: s1lence
-Role: Cybersecurity Engineering Student
-Focus: Defensive Security, Data Analysis, Tool Development
-Philosophy: "Observe. Analyze. Protect. In silence lies clarity."
-Languages: Spanish (Native) | English (Intermediate) | 中文 (Basic) | 日本語 (Basic)
----
-
-## 🛠️ <code>$ ls -la skills/</code>
-
-### Security & Analysis
-🔒 Cryptography & Hash Analysis  
-📊 Data Analysis with Python  
-🛡️ Linux Hardening (Mint, Ubuntu)  
-🔍 OSINT Fundamentals  
-
-### Programming & Development
-🐍 Python Scripting & Automation  
-⚡ C++ Algorithms & Data Structures  
-📝 SQL Database Queries  
-🤖 Discord Bot Development  
-
-### Tools & Environments
-🖥️ Virtualization: OracleVM, Android Emulation  
-📝 Documentation: PlantUML, Visio, Office Suite  
-🔧 IDEs: VS Code, Oracle Developer  
-🌐 Remote: AnyDesk, Team Viewer  
-
-### Soft Skills
-🎯 Strategic Decision Making  
-📋 Quality Control & Process Analysis  
-👥 Senior Discord Moderation  
-🌍 Cross-cultural Communication  
-
----
-
-## 📊 <code>$ git log --oneline</code>
-
-```bash
-* 2024 - Present: Engineering in Cybersecurity @ INACAP
-* 2023 - 2024: Technical Practice - Quality Control @ GESTIRIEGO
-* 2022 - 2023: Industrial Chemistry Technician @ Padre Alberto Hurtado
-* 2021 - 2022: Started programming journey with Python
+```python
+class s1lence:
+    def __init__(self):
+        self.alias = "s1lence"
+        self.role = "Cybersecurity Student & Analyst"
+        self.location = "Chile"
+        self.stack = ["Python", "C++", "SQL", "Bash"]
+        self.os = ["Linux Mint", "Ubuntu", "Windows"]
+        self.focus = [
+            "Cybersecurity & Privacy",
+            "Python Automation",
+            "Data Analysis",
+            "OSINT",
+            "Digital Art"
+        ]
 ```
 
 ---
 
-## 🎨 <code>$ tail -f hobbies.log</code>
+## 🛠️ `skills`
+
+| Category | Skills |
+|:----------|:--------|
+| **Security & Networks** | Wireshark, Hash Analysis, Cryptography, OSINT, Linux Hardening |
+| **Programming** | Python, C++, SQL, Bash, Discord Bots |
+| **Data & Analysis** | Pandas, Excel Automation, CSV Processing |
+| **Tools** | VS Code, PlantUML, Oracle VM, Git, Neocities |
+| **Languages** | Español 🇨🇱, English 🇬🇧, 中文 🇨🇳, 日本語 🇯🇵 |
+
+---
+
+## 📂 `projects/`
+
+| Type | Project | Description |
+|:------|:---------|:-------------|
+| 🐍 Python | `rut-generator-cl` | Generador de RUT chilenos con módulo 11 |
+| 🤖 Discord Bot | `discord-logbot` | Moderación y registro automatizado de logs |
+| 📊 Data | `data-normalizer` | Limpieza y normalización de datasets |
+| ⚙️ Simulación | `quality-control-sim` | Proceso de control de calidad industrial |
+| 🎮 Pygame | `pixel-art-maker` | Herramienta para arte pixelado |
+
+---
+
+## 🧾 `timeline`
 
 ```bash
-🎨 Digital & Traditional Drawing
+* 2024 - Present : Engineering in Cybersecurity @ INACAP
+* 2023 - 2024    : Technical Practice - Quality Control @ GESTIRIEGO
+* 2022 - 2023    : Industrial Chemistry Technician @ Padre Alberto Hurtado
+* 2021 - 2022    : Started programming journey with Python
+```
+
+---
+
+## 🎨 `hobbies.log`
+
+```bash
+🎨 Drawing (Digital + Traditional)
 🌐 Language Learning (Chinese, Japanese)
-🎮 Warcraft 3 Modding
-📚 Technical Documentation Reading
-🔧 Home Lab Experimentation
+🎮 Modding & Custom Game Design
+📚 Technical Reading
+🧪 Home Lab Experiments
 ```
 
 ---
 
-## 📫 <code>$ ping s1lence</code>
+## 📡 `contact/`
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+| Platform | Handle |
+|:----------|:--------|
+| 📧 Email | s1lence@protonmail.com |
+| 🌐 Web | [s1lence.neocities.org](https://s1lence.neocities.org) |
+| 💬 Discord | s1lence |
+| 🔗 LinkedIn | coming soon |
+
+<p align="center">
+  <i>"Observe. Analyze. Protect. In silence lies clarity."</i>
 </p>
 
----
-
-## 🔐 For secure communication:
-```bash
-echo "Contact me through GitHub issues or Discord communities"
-echo "I believe in ethical hacking and responsible disclosure"
-```
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=s1lence.profile" />
+</p>
