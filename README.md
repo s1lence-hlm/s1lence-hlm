@@ -1,100 +1,179 @@
-╔════════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║  ███████╗██╗██╗     ███████╗███╗   ██╗ ██████╗███████╗         ║
-║  ██╔════╝██║██║     ██╔════╝████╗  ██║██╔════╝██╔════╝         ║
-║  ███████╗██║██║     █████╗  ██╔██╗ ██║██║     █████╗           ║
-║  ╚════██║██║██║     ██╔══╝  ██║╚██╗██║██║     ██╔══╝           ║
-║  ███████║██║███████╗███████╗██║ ╚████║╚██████╗███████╗         ║
-║  ╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝         ║
-║                                                                 ║
-║                O B S E R V E R   O F   S Y S T E M S            ║
-║                                                                 ║
-╚════════════════════════════════════════════════════════════════╝
+<h1 align="center">
+  🧩 s1lence
+</h1>
 
-s1lence@github:~$ whoami
-> Cybersecurity Student | Data Analyst | Systems Observer
-> Digital Identity: Yoshito Kikuchi-based persona
-> Focus: Privacy, Security, and Silent Execution
+<p align="center">
+  <code>🔒 Cybersecurity Analyst | 🐍 Python Developer | 📊 Data Observer</code>
+</p>
 
-s1lence@github:~$ cat skills.txt
-
-🔐 CYBERSECURITY & PRIVACY
-├── Security Engineering (in progress)
-├── Cryptography & Hash Analysis
-├── OSINT Fundamentals
-├── System Hardening
-└── Network Security
-
-💻 PROGRAMMING & DEVELOPMENT
-├── Python [Advanced]
-│   ├── Data Analysis & Processing
-│   ├── Discord Bots & Automation
-│   ├── Pygame & Tool Development
-│   └── Algorithm Implementation
-├── C++ [Intermediate]
-│   ├── Data Structures
-│   ├── Binary Trees & Arrays
-│   └── Algorithm Optimization
-└── SQL [Intermediate]
-    ├── Database Management
-    └── Query Optimization
-
-📊 DATA ANALYSIS & TOOLS
-├── Quantitative & Qualitative Analysis
-├── Data Visualization
-├── Excel Advanced Processing
-├── CSV/Data Normalization
-└── Documentation & Reporting
-
-🛠️ SYSTEMS & INFRASTRUCTURE
-├── Linux Mint/Ubuntu Administration
-├── Windows 10/11 Optimization
-├── OracleVM & Virtualization
-├── Android Emulation
-└── IT Maintenance & Support
-
-🎨 CREATIVE & MANAGEMENT
-├── Digital & Traditional Drawing
-├── Discord Community Management
-├── UML Modeling & PlantUML
-├── SCRUM Methodology
-└── Technical Documentation
-
-🗣️ LANGUAGES
-├── Spanish [Native]
-├── English [Intermediate]
-├── Chinese Mandarin [Basic]
-└── Japanese [Basic]
-
-s1lence@github:~$ ls projects/
-📁 cybersecurity/    # Security tools & research
-📁 data-analysis/    # Data processing scripts
-📁 discord-bots/     # Community management tools
-📁 system-tools/     # Automation & utilities
-📁 experimental/     # Testing & prototypes
-
-s1lence@github:~$ cat philosophy.txt
-"Like Kikuchi, I believe in silent observation before action.
-In the digital realm, understanding precedes intervention.
-Every system has patterns; every pattern tells a story."
-
-s1lence@github:~$ network --connections
-🌐 GitHub:    https://github.com/s1lence-hlm
-🔗 Neocities: https://s1lence.neocities.org
-📧 Email:     [Use GitHub Issues for contact]
-💬 Discord:   s1lence#0000
-
-s1lence@github:~$ status --current
-> 🔄 Learning: Advanced Cybersecurity Concepts
-> 🛠️ Building: Automated Analysis Tools  
-> 🔍 Researching: Privacy Preservation Methods
-> 🌱 Growing: Open Source Contributions
-
-s1lence@github:~$ last-update $(date +%Y-%m-%d)
-> System: Operational
-> Identity: Active
-> Mission: Observing, Learning, Building
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-00FF00?style=flat-square&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privacy-Focused-000000?style=flat-square&logo=lock&logoColor=white"/>
+</p>
 
 ---
-"Silence is not the absence of something, but the presence of everything."
-- Adapted from John Cage
+
+## 🖥️ System Information / Información del Sistema
+
+```bash
+# s1lence@github:~$ cat /proc/s1lence/profile
+USER:       s1lence
+ROLE:       Cybersecurity Engineering Student / Estudiante de Ingeniería en Ciberseguridad
+STATUS:     Observing | Analyzing | Coding / Observando | Analizando | Programando
+THEME:      Terminal Dark
+MODE:       Anonymous Professional / Profesional Anónimo
+```
+
+---
+
+## 🛠️ Technical Stack / Pila Tecnológica
+
+### 🔐 Security & Defense / Seguridad y Defensa
+
+```python
+security_skills = {
+    "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT"],
+    "cryptography": ["Hash Algorithms", "Basic Crypto", "Data Protection"],
+    "systems": ["Linux Hardening", "Windows Security", "Virtualization"]
+}
+```
+
+### 💻 Development & Programming / Desarrollo y Programación
+
+| **Language / Lenguaje** | **Level / Nivel** | **Specialties / Especialidades** |
+|--------------------------|-------------------|----------------------------------|
+| 🐍 Python | Advanced / Avanzado | Data Analysis, Automation, Bots, PyGame |
+| 🔧 C++ | Intermediate / Intermedio | Algorithms, Data Structures |
+| 🗃️ SQL | Intermediate / Intermedio | Database Management, Queries |
+| 📝 Markdown | Advanced / Avanzado | Documentation, Technical Writing |
+
+---
+
+### 📊 Data & Analysis / Datos y Análisis
+
+```bash
+# Analysis Tools / Herramientas de Análisis
+├── Python Data Stack (Pandas, NumPy)
+├── Excel Advanced Processing / Procesamiento avanzado en Excel
+├── CSV/JSON Data Manipulation
+├── Statistical Analysis / Análisis Estadístico
+└── Data Visualization / Visualización de Datos
+```
+
+---
+
+### 🎮 Community & Management / Comunidad y Gestión
+
+- **Discord Senior Moderator / Moderador Senior de Discord**  
+- **Bot Development / Desarrollo de Bots** – Automatización y moderación  
+- **Project Coordination / Coordinación de Proyectos** – Metodología SCRUM  
+- **Technical Documentation / Documentación Técnica** – UML, PlantUML  
+
+---
+
+## 📈 GitHub Analytics / Analíticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lence-hlm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🚀 Featured Projects / Proyectos Destacados
+
+### 🔒 Security Tools / Herramientas de Seguridad
+```bash
+📁 security-tools/
+├── hash-analyzer/          # Cryptographic hash analysis / Análisis de hash
+├── network-scanner/        # Network reconnaissance / Exploración de red
+└── data-anonymizer/        # Privacy protection toolkit / Protección de datos
+```
+
+### 🤖 Discord Ecosystem / Ecosistema Discord
+```bash
+📁 discord-bots/
+├── moderation-bot/         # Community management / Moderación avanzada
+├── analytics-bot/          # Server statistics / Estadísticas de servidor
+└── automation-bot/         # Workflow automation / Automatización
+```
+
+### 📊 Data Analysis / Análisis de Datos
+```bash
+📁 data-projects/
+├── csv-processor/          # CSV manipulation / Manipulación avanzada
+├── data-visualizer/        # Terminal-based charts / Gráficos en terminal
+└── statistical-tools/      # Analysis utilities / Utilidades estadísticas
+```
+
+---
+
+## 🌐 Digital Presence / Presencia Digital
+
+| **Platform / Plataforma** | **Purpose / Propósito** | **Status / Estado** |
+|----------------------------|-------------------------|----------------------|
+| 🔄 GitHub | Code Portfolio / Portafolio de Código | **Active** |
+| 🌐 Neocities | Personal Website / Sitio Web Personal | **Developing** |
+| 💬 Discord | Community Interaction / Comunidad | **Active** |
+| 🔗 LinkedIn | Professional Network / Red Profesional | **Anonymous** |
+
+---
+
+## 🎯 Currently Focused On / Enfoques Actuales
+
+```python
+current_projects = [
+    "🔒 Advancing Cybersecurity knowledge / Ampliando conocimientos en Ciberseguridad",
+    "🐍 Developing Python security tools / Desarrollando herramientas de seguridad en Python", 
+    "📊 Building data analysis frameworks / Creando frameworks de análisis de datos",
+    "🤖 Enhancing Discord bot ecosystem / Mejorando ecosistema de bots Discord",
+    "🌐 Maintaining digital privacy / Manteniendo privacidad digital"
+]
+
+current_learning = [
+    "Advanced Network Security / Seguridad de redes avanzada",
+    "Chinese Language Studies / Estudios de chino",
+    "Cryptography Fundamentals / Fundamentos de criptografía",
+    "Linux System Administration / Administración de sistemas Linux"
+]
+```
+
+---
+
+## 📫 Contact Protocol / Protocolo de Contacto
+
+**For secure communication / Para comunicación segura:**
+
+```bash
+# PGP Key Available Upon Request / Clave PGP disponible a solicitud
+echo "Contact through GitHub issues or professional channels"
+```
+
+**⚠️ Identity Notice / Aviso de Identidad:**  
+*This profile represents a professional digital entity focused on technical contributions while maintaining privacy boundaries.*  
+*Este perfil representa una entidad digital profesional centrada en contribuciones técnicas, preservando la privacidad.*
+
+---
+
+<div align="center">
+
+### 🎨 System Theme / Tema del Sistema
+*Terminal Minimalist — Inspired by Yoshito Kikuchi*  
+*Minimalismo de Terminal — Inspirado en Yoshito Kikuchi*
+
+```bash
+# System shutdown...
+$ exit
+Connection closed by remote host.
+```
+
+**"In silence, we observe. In observation, we understand."**  
+**"En el silencio observamos. En la observación comprendemos."**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=s1lence-hlm&color=00FF00&style=flat-square)
+
+</div>
