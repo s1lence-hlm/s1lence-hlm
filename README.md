@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy s1lence 👋
 
-<!--
-**s1lence-hlm/s1lence-hlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ciberseguridad Enthusiast & Python Developer**
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: Mi portafolio de ciberseguridad y bots de Discord.
+- 🌱 Aprendiendo: **Criptografía aplicada** y **Análisis de malware**.
+- 👯 Busco colaborar en: Proyectos de OSINT y herramientas de automatización.
+- 💬 Pregúntame sobre: Python, Análisis de Datos, Gestión de Servidores Discord.
+- ⚡ Fun fact: Artista digital en secreto y estudiante perpetuo de idiomas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`s1lence$ cat skills.txt`
+**Lenguajes:** Python, C++, SQL
+**Ciberseguridad:** Hash Analysis, Cryptography, Linux Hardening
+**Herramientas:** Git, VS Code, OracleVM, Wireshark, PlantUML
