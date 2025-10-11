@@ -18,21 +18,6 @@
 
 ---
 
-### 🎨 Estilo Visual y Comunicativo
-
-**Estética Principal**
-- Interfaz tipo **terminal**: fondo `#0D0D0D`, texto `#00FF00`, acentos `#00FFFF`.
-- Tipografía: `JetBrains Mono`, `Monaco`, `Consolas`.
-- Recursos visuales: ASCII art, diagramas **PlantUML**, diseño minimalista.
-
-**Tono Comunicativo**
-- Precisión técnica → sin adornos innecesarios.  
-- Reflexión filosófica → sobre privacidad, sistemas y tecnología.  
-- Humor seco y referencias sutiles → cultura tech y anime.  
-- Reservado pero accesible → “el que calla, analiza”.
-
----
-
 ### 🧠 Áreas de Enfoque Profesional
 
 #### 🔐 Ciberseguridad & Seguridad Digital
