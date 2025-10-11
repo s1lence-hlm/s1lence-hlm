@@ -1,88 +1,90 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/ios/50/FFFFFF/command-line.png" width="30" />
-  s1lence
+  <img src="https://img.shields.io/badge/s1lence-%2300FF00.svg?style=for-the-badge&logo=terminal&logoColor=white" alt="s1lence"/>
 </h1>
 
 <p align="center">
-  <i>>_ Observador técnico | Estudiante de Ciberseguridad</i>
+  <code>s1lence@digital:~$ whoami</code>
+</p>
+
+<h3 align="center">
+  <code>Cybersecurity Analyst | Python & C++ Developer | Terminal Philosopher</code>
+</h3>
+
+---
+
+## 🖥️ <code>$ cat about_me.txt</code>
+
+```bash
+Name: s1lence
+Role: Cybersecurity Engineering Student
+Focus: Defensive Security, Data Analysis, Tool Development
+Philosophy: "Observe. Analyze. Protect. In silence lies clarity."
+Languages: Spanish (Native) | English (Intermediate) | 中文 (Basic) | 日本語 (Basic)
+---
+
+## 🛠️ <code>$ ls -la skills/</code>
+
+### Security & Analysis
+🔒 Cryptography & Hash Analysis  
+📊 Data Analysis with Python  
+🛡️ Linux Hardening (Mint, Ubuntu)  
+🔍 OSINT Fundamentals  
+
+### Programming & Development
+🐍 Python Scripting & Automation  
+⚡ C++ Algorithms & Data Structures  
+📝 SQL Database Queries  
+🤖 Discord Bot Development  
+
+### Tools & Environments
+🖥️ Virtualization: OracleVM, Android Emulation  
+📝 Documentation: PlantUML, Visio, Office Suite  
+🔧 IDEs: VS Code, Oracle Developer  
+🌐 Remote: AnyDesk, Team Viewer  
+
+### Soft Skills
+🎯 Strategic Decision Making  
+📋 Quality Control & Process Analysis  
+👥 Senior Discord Moderation  
+🌍 Cross-cultural Communication  
+
+---
+
+## 📊 <code>$ git log --oneline</code>
+
+```bash
+* 2024 - Present: Engineering in Cybersecurity @ INACAP
+* 2023 - 2024: Technical Practice - Quality Control @ GESTIRIEGO
+* 2022 - 2023: Industrial Chemistry Technician @ Padre Alberto Hurtado
+* 2021 - 2022: Started programming journey with Python
+```
+
+---
+
+## 🎨 <code>$ tail -f hobbies.log</code>
+
+```bash
+🎨 Digital & Traditional Drawing
+🌐 Language Learning (Chinese, Japanese)
+🎮 Warcraft 3 Modding
+📚 Technical Documentation Reading
+🔧 Home Lab Experimentation
+```
+
+---
+
+## 📫 <code>$ ping s1lence</code>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
 </p>
 
 ---
 
-## 🧠 `whoami`
-
-```python
-class s1lence:
-    def __init__(self):
-        self.name = "s1lence"
-        self.real_name = "Yoshito Kikuchi (personaje)"
-        self.role = "Estudiante de Ciberseguridad & Analista Técnico"
-        self.location = "Región Metropolitana, Chile"
-        self.languages = ["es_ES", "en_US", "zh_CN", "ja_JP"]
-        self.interests = [
-            "Python Scripting",
-            "Data Analysis",
-            "Cybersecurity",
-            "Digital Privacy",
-            "Terminal Aesthetics",
-            "Traditional & Digital Art"
-        ]
+## 🔐 For secure communication:
+```bash
+echo "Contact me through GitHub issues or Discord communities"
+echo "I believe in ethical hacking and responsible disclosure"
 ```
-
----
-
-## 🛠 `skills`
-
-### 🔧 Lenguajes & Entornos
-```text
-Python, C++, SQL, Bash, CSV, Excel, Linux Mint, Ubuntu, Windows
-```
-
-### 🔐 Ciberseguridad & Redes
-```text
-Wireshark, Hash Analysis, Basic Cryptography, OSINT, Network Security
-```
-
-### 🎨 Herramientas & Plataformas
-```text
-Visual Studio Code, PlantUML, Oracle VM, Discord API, Git, Neocities, Pygame
-```
-
-### 🌐 Idiomas
-```text
-Español (Nativo), Inglés (Intermedio), Chino (Básico), Japonés (Básico)
-```
-
----
-
-## 📂 `projects/`
-
-### 🐍 Python Scripts
-- **rut-generator-cl** → Generador de RUT chilenos con módulo 11.  
-- **discord-logbot** → Bot de Discord para moderación y registro de logs.  
-- **data-normalizer** → Script para normalización y validación de datasets.  
-
-### 🧪 Análisis de Datos
-- **quality-control-sim** → Simulación de procesos de control de calidad industrial.  
-
-### 🎮 Pygame Experiments
-- **pixel-art-maker** → Herramienta básica para creación de arte pixelado.  
-
----
-
-## 📫 `contact/`
-
-| Medio | Contacto |
-|:------|:----------|
-| 📧 Email | s1lence@protonmail.com |
-| 🌐 Web | [s1lence.neocities.org](https://s1lence.neocities.org) |
-| 💬 Discord | s1lence |
-
-<p align="center">
-  <i>"En el silencio, la señal se encuentra."</i>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=s1lence.s1lence" />
-</p>
-
