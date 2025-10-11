@@ -1,10 +1,17 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/terminal-%234EAA25.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal"/>
-  s1lence
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=s1lence+%7C+Digital+Observer" alt="s1lence header"/>
 </h1>
 
 <p align="center">
   <code>🔒 Cybersecurity Analyst | 🐍 Python Developer | 📊 Data Observer</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-00FF00?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privacy-000000?style=for-the-badge&logo=lock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <div align="center">
@@ -12,17 +19,7 @@
   ```bash
   $ whoami
   s1lence - Digital Observer | Security Enthusiast | Code Philosopher
-  
-  $ systemctl status s1lence
-  ● s1lence.service - Digital Identity Service
-     Loaded: loaded (/etc/systemd/system/s1lence.service; enabled; vendor preset: enabled)
-     Active: active (running) since 2024-01-01 UTC
-     Main PID: 1337 (s1lence)
-     Status: "Observing | Analyzing | Coding"
-     CGroup: /system.slice/s1lence.service
-             └─1337 /usr/bin/s1lence --mode=anonymous --theme=terminal-dark
 </div>
-
 🖥️ System Information
 bash
 # s1lence@github:~$ cat /proc/s1lence/profile
@@ -31,56 +28,47 @@ ROLE:       Cybersecurity Engineering Student
 STATUS:     Observing | Analyzing | Coding
 THEME:      Terminal Dark
 MODE:       Anonymous Professional
-LOCATION:   Digital Space
-PROTOCOL:   Privacy-First
-
+PROTOCOL:   Kikuchi-Type Digital Entity
 🛠️ Technical Stack
-
 🔐 Security & Defense
 python
 security_skills = {
-    "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT", "Privacy Protection"],
-    "cryptography": ["Hash Algorithms", "Basic Cryptography", "Data Encryption"],
-    "systems": ["Linux Administration", "Windows Hardening", "Oracle VM", "Virtualization"],
-    "tools": ["Wireshark", "Nmap", "Metasploit", "Burp Suite"]
+    "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT"],
+    "cryptography": ["Hash Algorithms", "Basic Crypto", "Data Protection"],
+    "systems": ["Linux Hardening", "Windows Security", "Virtualization"],
+    "tools": ["Wireshark", "Metasploit", "Nmap", "VirtualBox"]
 }
-
 💻 Development & Programming
-<div align="center">
 Language	Level	Specialties
-🐍 Python	Intermediate	Data Analysis, Automation, Discord Bots, PyGame, Algorithms
-🔧 C++	Intermediate	Data Structures, Binary Trees, Arrays, Two Pointers
-🗃️ SQL	Intermediate	Database Management, Queries, Data Modeling
+🐍 Python	Intermediate	Data Analysis, Automation, Bots, PyGame
+🔧 C++	Intermediate	Algorithms, Data Structures
+🗃️ SQL	Intermediate	Database Management, Queries
 📝 Markdown	Advanced	Documentation, Technical Writing
-</div>
-
 📊 Data & Analysis
 bash
-# Analysis Toolkit
-├── Python Data Stack (Pandas, NumPy, CSV Processing)
+# Analysis Tools
+├── Python Data Processing (Pandas, NumPy)
 ├── Excel Advanced Automation
-├── Statistical Analysis & Modeling
-├── Data Visualization & Reporting
-├── Quantitative & Qualitative Methods
-└── Academic Research Documentation
-
+├── CSV/JSON Data Manipulation
+├── Statistical Analysis
+├── Data Visualization
+└── Quantitative & Qualitative Methods
 🏭 Industrial & Technical
 bash
 # Industrial Experience
 ├── Quality Control Systems
 ├── Chemical Sample Processing
 ├── Industrial Protocol Management
-├── Logistics & Supply Chain Optimization
-└── Technical Inspection & Compliance
-
+├── Logistics & Supply Chain
+└── Technical Inspection
 🎮 Community & Management
 Discord Senior Moderator - Large community management (10k+ users)
 
-Bot Development - Custom automation & moderation solutions
+Bot Development - Custom automation solutions
 
-Project Coordination - SCRUM & Agile Methodologies
+Project Coordination - SCRUM & Agile Methodology
 
-Technical Documentation - UML, PlantUML, Case Diagrams
+Technical Documentation - UML, PlantUML, Diagrams
 
 📈 GitHub Analytics
 <div align="center">
@@ -88,124 +76,74 @@ https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=s1lence-hlm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF
 
-https://streak-stats.demolab.com/?user=s1lence-hlm&theme=dark&background=0D0D0D&border=00FF00
+https://streak-stats.demolab.com/?user=s1lence-hlm&theme=dark&background=0D0D0D&border=00FF00&stroke=00FF00&ring=00FFFF&fire=FFFF00&currStreakLabel=00FF00
 
 </div>
-
-🚀 Project Directories
-
-🔒 Security & Privacy
+🚀 Featured Projects
+🔒 Security Tools
 bash
-📁 ~/projects/security/
-├── hash-analyzer/          # Cryptographic hash analysis tool
-├── network-scanner/        # Network reconnaissance utility
+📁 security-tools/
+├── hash-analyzer/          # Cryptographic hash analysis
+├── network-scanner/        # Basic network reconnaissance
 ├── data-anonymizer/        # Privacy protection toolkit
-├── system-hardener/        # OS security configuration
-└── privacy-monitor/        # Digital footprint analysis
-
-🤖 Automation & Bots
+└── vulnerability-scanner/  # System security assessment
+🤖 Discord Ecosystem
 bash
-📁 ~/projects/automation/
-├── discord-moderator/      # Advanced community management bot
-├── data-processor/         # CSV/Excel automation toolkit
-├── system-admin/           # IT maintenance scripts
-└── workflow-automator/     # Custom productivity tools
-
+📁 discord-bots/
+├── moderation-bot/         # Advanced community management
+├── analytics-bot/          # Server statistics & insights
+├── automation-bot/         # Custom workflow automation
+└── security-bot/           # Server protection systems
 📊 Data Analysis
 bash
-📁 ~/projects/data/
-├── csv-analyzer/           # Advanced CSV manipulation
-├── statistical-tools/      # Data analysis utilities
-├── visualization-engine/   # Terminal-based charts
-└── report-generator/       # Automated documentation
-
-🎨 Creative & Multimedia
+📁 data-projects/
+├── csv-processor/          # Advanced CSV manipulation
+├── data-visualizer/        # Terminal-based charts
+├── statistical-tools/      # Analysis utilities
+└── industrial-analytics/   # Quality control data processing
+🎨 Creative Coding
 bash
-📁 ~/projects/creative/
-├── digital-art/            # Paint.net & SAI projects
-├── game-dev/               # PyGame experiments
-├── ui-design/              # Terminal interface designs
-└── documentation/          # Technical writing samples
-
-🌐 Digital Presence Matrix
-<div align="center">
-Platform	Identity	Status	Purpose
-🔄 GitHub	s1lence-hlm	Active	Code Portfolio & Projects
-🌐 Neocities	s1lence-terminal	Developing	Personal Website & Blog
-💬 Discord	s1lence_mod	Active	Community Interaction
-🔗 LinkedIn	Anonymous	Stealth	Professional Network
-🎮 Gaming	s1lence	Occasional	Warcraft 3 Communities
-</div>
-
-🎯 Current System Processes
+📁 creative-projects/
+├── pygame-experiments/     # Game development
+├── digital-art-tools/      # Creative utilities
+└── terminal-graphics/      # ASCII/ANSI art generators
+🌐 Digital Presence
+Platform	Purpose	Status
+🔄 GitHub	Code Portfolio	Active
+🌐 Neocities	Personal Website	Developing
+💬 Discord	Community Interaction	Active
+🔗 LinkedIn	Professional Network	Anonymous
+📚 Academic	Research & Documentation	Active
+🎯 Currently Focused On
 python
-current_processes = [
-    "🔒 Advancing Cybersecurity knowledge and practical skills",
-    "🐍 Developing Python security tools and automation scripts", 
-    "📊 Building data analysis frameworks for industrial applications",
-    "🤖 Enhancing Discord bot ecosystem with advanced features",
-    "🌐 Maintaining digital privacy and anonymous presence",
-    "📚 Learning Mandarin Chinese & Japanese languages",
-    "🎨 Developing digital art skills with SAI and Paint.net"
+current_projects = [
+    "🔒 Advancing Cybersecurity knowledge",
+    "🐍 Developing Python security tools", 
+    "📊 Building data analysis frameworks",
+    "🤖 Enhancing Discord bot ecosystem",
+    "🌐 Maintaining digital privacy",
+    "🏭 Bridging industrial & digital tech"
 ]
 
-system_learning = [
-    "Advanced Network Security protocols",
-    "Cryptography and encryption methods",
-    "Linux system administration",
-    "SCRUM project management",
-    "Data structure optimization"
+current_learning = [
+    "Advanced Network Security",
+    "Chinese Language Studies", 
+    "Cryptography Fundamentals",
+    "Linux System Administration",
+    "Threat Analysis Methodologies",
+    "Digital Forensics Basics"
 ]
-
-📫 Contact Protocols
+🗣️ Language Proficiency
+bash
+# Language Stack
+├── Spanish:        Native [██████████] 100%
+├── English:        Intermediate [████████░░] 80%
+├── Chinese:        Basic [█████░░░░░] 50%
+└── Japanese:       Basic [███░░░░░░░] 30%
+📫 Contact Protocol
 <div align="center">
-Secure Communication Channels:
+For secure communication:
 
 bash
-# Primary Contact Method
-$ echo "GitHub Issues or Discussions"
-
-# Alternative Methods
-$ contact_methods = ["Encrypted Email", "Discord Technical Communities"]
-
-# Identity Notice
-$ cat /etc/s1lence/disclaimer.txt
-"This digital entity operates under privacy-first principles.
-All contributions are professional and technical in nature."
-🔐 PGP Key Available Upon Verified Request
-
-</div>
-
-🎨 System Theme & Philosophy
-<div align="center">
-Terminal Minimalist Design
-Inspired by Yoshito Kikuchi - The Silent Observer
-
-bash
-# Kikuchi Protocol Active
-$ systemctl is-active kikuchi_protocol
-active
-
-# Core Philosophy
-$ cat /usr/share/s1lence/philosophy.txt
-"In silence, we observe the system.
-In observation, we understand the patterns.
-In understanding, we find the solutions.
-Perfection is not a destination, but a continuous process."
-System Uptime: Active and Monitoring
-
-https://komarev.com/ghpvc/?username=s1lence-hlm&color=00FF00&style=flat-square
-
-bash
-# Connection status
-$ ping -c 1 s1lence-hlm.github.io
-PING s1lence-hlm.github.io (185.199.108.153) 56(84) bytes of data.
-64 bytes from 185.199.108.153: icmp_seq=1 ttl=54 time=25.6 ms
-
---- s1lence-hlm.github.io ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-
-# System shutdown...
-$ sudo systemctl poweroff
-Connection closed by foreign host.
-</div>
+# Encrypted Communication Preferred
+echo "Contact through GitHub issues or verified professional networks"
