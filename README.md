@@ -1,211 +1,187 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/terminal-%234EAA25.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal"/>
-  s1lence
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=s1lence" alt="s1lence header"/>
 </h1>
 
 <p align="center">
   <code>🔒 Cybersecurity Analyst | 🐍 Python Developer | 📊 Data Observer</code>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Student-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Student-00FF00?style=flat-square&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Privacy-Focused-000000?style=flat-square&logo=lock&logoColor=white"/>
+</p>
+
 <div align="center">
   
   ```bash
-  $ whoami
-  s1lence - Digital Observer | Security Enthusiast | Code Philosopher
+  whoami
+  ```
+  *s1lence - Digital Observer | Security Enthusiast | Code Philosopher*
   
-  $ systemctl status s1lence
-  ● s1lence.service - Digital Identity Service
-     Loaded: loaded (/etc/systemd/system/s1lence.service; enabled; vendor preset: enabled)
-     Active: active (running) since 2024-01-01 UTC
-     Main PID: 1337 (s1lence)
-     Status: "Observing | Analyzing | Coding"
-     CGroup: /system.slice/s1lence.service
-             └─1337 /usr/bin/s1lence --mode=anonymous --theme=terminal-dark
 </div>
 
-🖥️ System Information
-bash
+---
+
+## 🖥️ **System Information**
+
+```bash
 # s1lence@github:~$ cat /proc/s1lence/profile
 USER:       s1lence
 ROLE:       Cybersecurity Engineering Student
 STATUS:     Observing | Analyzing | Coding
 THEME:      Terminal Dark
 MODE:       Anonymous Professional
-LOCATION:   Digital Space
-PROTOCOL:   Privacy-First
+```
 
-🛠️ Technical Stack
+## 🛠️ **Technical Stack**
 
-🔐 Security & Defense
-python
+### 🔐 **Security & Defense**
+```python
 security_skills = {
-    "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT", "Privacy Protection"],
-    "cryptography": ["Hash Algorithms", "Basic Cryptography", "Data Encryption"],
-    "systems": ["Linux Administration", "Windows Hardening", "Oracle VM", "Virtualization"],
-    "tools": ["Wireshark", "Nmap", "Metasploit", "Burp Suite"]
+    "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT"],
+    "cryptography": ["Hash Algorithms", "Basic Crypto", "Data Protection"],
+    "systems": ["Linux Hardening", "Windows Security", "Virtualization"]
 }
+```
 
-💻 Development & Programming
+### 💻 **Development & Programming**
 <div align="center">
-Language	Level	Specialties
-🐍 Python	Intermediate	Data Analysis, Automation, Discord Bots, PyGame, Algorithms
-🔧 C++	Intermediate	Data Structures, Binary Trees, Arrays, Two Pointers
-🗃️ SQL	Intermediate	Database Management, Queries, Data Modeling
-📝 Markdown	Advanced	Documentation, Technical Writing
-</div>
 
-📊 Data & Analysis
-bash
-# Analysis Toolkit
-├── Python Data Stack (Pandas, NumPy, CSV Processing)
-├── Excel Advanced Automation
-├── Statistical Analysis & Modeling
-├── Data Visualization & Reporting
-├── Quantitative & Qualitative Methods
-└── Academic Research Documentation
-
-🏭 Industrial & Technical
-bash
-# Industrial Experience
-├── Quality Control Systems
-├── Chemical Sample Processing
-├── Industrial Protocol Management
-├── Logistics & Supply Chain Optimization
-└── Technical Inspection & Compliance
-
-🎮 Community & Management
-Discord Senior Moderator - Large community management (10k+ users)
-
-Bot Development - Custom automation & moderation solutions
-
-Project Coordination - SCRUM & Agile Methodologies
-
-Technical Documentation - UML, PlantUML, Case Diagrams
-
-📈 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FFFF
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=s1lence-hlm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF
-
-https://streak-stats.demolab.com/?user=s1lence-hlm&theme=dark&background=0D0D0D&border=00FF00
+| **Language** | **Level** | **Specialties** |
+|--------------|-----------|-----------------|
+| `🐍 Python` | Intermediate | Data Analysis, Automation, Bots, PyGame |
+| `🔧 C++` | Intermediate | Algorithms, Data Structures |
+| `🗃️ SQL` | Intermediate | Database Management, Queries |
+| `📝 Markdown` | Advanced | Documentation, Technical Writing |
 
 </div>
 
-🚀 Project Directories
+### 📊 **Data & Analysis**
+```bash
+# Analysis Tools
+├── Python Data Stack (Pandas, NumPy)
+├── Excel Advanced Processing
+├── CSV/JSON Data Manipulation
+├── Statistical Analysis
+└── Data Visualization
+```
 
-🔒 Security & Privacy
-bash
-📁 ~/projects/security/
-├── hash-analyzer/          # Cryptographic hash analysis tool
-├── network-scanner/        # Network reconnaissance utility
-├── data-anonymizer/        # Privacy protection toolkit
-├── system-hardener/        # OS security configuration
-└── privacy-monitor/        # Digital footprint analysis
+### 🎮 **Community & Management**
+- **Discord Senior Moderator** - Large community management
+- **Bot Development** - Custom automation solutions
+- **Project Coordination** - SCRUM Methodology
+- **Technical Documentation** - UML, PlantUML
 
-🤖 Automation & Bots
-bash
-📁 ~/projects/automation/
-├── discord-moderator/      # Advanced community management bot
-├── data-processor/         # CSV/Excel automation toolkit
-├── system-admin/           # IT maintenance scripts
-└── workflow-automator/     # Custom productivity tools
+---
 
-📊 Data Analysis
-bash
-📁 ~/projects/data/
-├── csv-analyzer/           # Advanced CSV manipulation
-├── statistical-tools/      # Data analysis utilities
-├── visualization-engine/   # Terminal-based charts
-└── report-generator/       # Automated documentation
+## 📈 **GitHub Analytics**
 
-🎨 Creative & Multimedia
-bash
-📁 ~/projects/creative/
-├── digital-art/            # Paint.net & SAI projects
-├── game-dev/               # PyGame experiments
-├── ui-design/              # Terminal interface designs
-└── documentation/          # Technical writing samples
-
-🌐 Digital Presence Matrix
 <div align="center">
-Platform	Identity	Status	Purpose
-🔄 GitHub	s1lence-hlm	Active	Code Portfolio & Projects
-🌐 Neocities	s1lence-terminal	Developing	Personal Website & Blog
-💬 Discord	s1lence_mod	Active	Community Interaction
-🔗 LinkedIn	Anonymous	Stealth	Professional Network
-🎮 Gaming	s1lence	Occasional	Warcraft 3 Communities
+
+![s1lence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lence-hlm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF)
+
 </div>
 
-🎯 Current System Processes
-python
-current_processes = [
-    "🔒 Advancing Cybersecurity knowledge and practical skills",
-    "🐍 Developing Python security tools and automation scripts", 
-    "📊 Building data analysis frameworks for industrial applications",
-    "🤖 Enhancing Discord bot ecosystem with advanced features",
-    "🌐 Maintaining digital privacy and anonymous presence",
-    "📚 Learning Mandarin Chinese & Japanese languages",
-    "🎨 Developing digital art skills with SAI and Paint.net"
+---
+
+## 🚀 **Featured Projects**
+
+### 🔒 Security Tools
+```bash
+📁 security-tools/
+├── hash-analyzer/          # Cryptographic hash analysis
+├── network-scanner/        # Basic network reconnaissance
+└── data-anonymizer/        # Privacy protection toolkit
+```
+
+### 🤖 Discord Ecosystem
+```bash
+📁 discord-bots/
+├── moderation-bot/         # Advanced community management
+├── analytics-bot/          # Server statistics & insights
+└── automation-bot/         # Custom workflow automation
+```
+
+### 📊 Data Analysis
+```bash
+📁 data-projects/
+├── csv-processor/          # Advanced CSV manipulation
+├── data-visualizer/        # Terminal-based charts
+└── statistical-tools/      # Analysis utilities
+```
+
+---
+
+## 🌐 **Digital Presence**
+
+<div align="center">
+
+| **Platform** | **Purpose** | **Status** |
+|--------------|-------------|------------|
+| `🔄 GitHub` | Code Portfolio | **Active** |
+| `🌐 Neocities` | Personal Website | **Developing** |
+| `💬 Discord` | Community Interaction | **Active** |
+| `🔗 LinkedIn` | Professional Network | **Anonymous** |
+
+</div>
+
+---
+
+## 🎯 **Currently Focused On**
+
+```python
+current_projects = [
+    "🔒 Advancing Cybersecurity knowledge",
+    "🐍 Developing Python security tools", 
+    "📊 Building data analysis frameworks",
+    "🤖 Enhancing Discord bot ecosystem",
+    "🌐 Maintaining digital privacy"
 ]
 
-system_learning = [
-    "Advanced Network Security protocols",
-    "Cryptography and encryption methods",
-    "Linux system administration",
-    "SCRUM project management",
-    "Data structure optimization"
+current_learning = [
+    "Advanced Network Security",
+    "Chinese Language Studies",
+    "Cryptography Fundamentals",
+    "Linux System Administration"
 ]
+```
 
-📫 Contact Protocols
+---
+
+## 📫 **Contact Protocol**
+
 <div align="center">
-Secure Communication Channels:
 
-bash
-# Primary Contact Method
-$ echo "GitHub Issues or Discussions"
+**For secure communication:**
 
-# Alternative Methods
-$ contact_methods = ["Encrypted Email", "Discord Technical Communities"]
+```bash
+# PGP Key Available Upon Request
+echo "Contact through GitHub issues or professional networks"
+```
 
-# Identity Notice
-$ cat /etc/s1lence/disclaimer.txt
-"This digital entity operates under privacy-first principles.
-All contributions are professional and technical in nature."
-🔐 PGP Key Available Upon Verified Request
+**⚠️ Identity Notice:**
+*This profile represents a professional digital entity focused on technical contributions while maintaining privacy boundaries.*
 
 </div>
 
-🎨 System Theme & Philosophy
+---
+
 <div align="center">
-Terminal Minimalist Design
-Inspired by Yoshito Kikuchi - The Silent Observer
 
-bash
-# Kikuchi Protocol Active
-$ systemctl is-active kikuchi_protocol
-active
+### 🎨 **System Theme: Terminal Minimalist**
+*Inspired by Yoshito Kikuchi - Observing, Analyzing, Perfecting*
 
-# Core Philosophy
-$ cat /usr/share/s1lence/philosophy.txt
-"In silence, we observe the system.
-In observation, we understand the patterns.
-In understanding, we find the solutions.
-Perfection is not a destination, but a continuous process."
-System Uptime: Active and Monitoring
-
-https://komarev.com/ghpvc/?username=s1lence-hlm&color=00FF00&style=flat-square
-
-bash
-# Connection status
-$ ping -c 1 s1lence-hlm.github.io
-PING s1lence-hlm.github.io (185.199.108.153) 56(84) bytes of data.
-64 bytes from 185.199.108.153: icmp_seq=1 ttl=54 time=25.6 ms
-
---- s1lence-hlm.github.io ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-
+```bash
 # System shutdown...
-$ sudo systemctl poweroff
-Connection closed by foreign host.
+$ exit
+Connection closed by remote host.
+```
+
+**"In silence, we observe. In observation, we understand."**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=s1lence-hlm&color=00FF00&style=flat-square)
+
 </div>
