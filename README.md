@@ -1,5 +1,5 @@
 <h1 align="center">
-  🧩 s1lence
+  s1lence
 </h1>
 
 <p align="center">
@@ -7,30 +7,36 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Student-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Student-00FF00?style=flat-square&logo=security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Privacy-Focused-000000?style=flat-square&logo=lock&logoColor=white"/>
 </p>
 
+<div align="center">
+  
+  ```bash
+  whoami
+  ```
+  *s1lence - Digital Observer | Security Enthusiast | Code Philosopher*
+  
+</div>
+
 ---
 
-## 🖥️ System Information / Información del Sistema
+## 🖥️ **System Information**
 
 ```bash
 # s1lence@github:~$ cat /proc/s1lence/profile
 USER:       s1lence
-ROLE:       Cybersecurity Engineering Student / Estudiante de Ingeniería en Ciberseguridad
-STATUS:     Observing | Analyzing | Coding / Observando | Analizando | Programando
+ROLE:       Cybersecurity Engineering Student
+STATUS:     Observing | Analyzing | Coding
 THEME:      Terminal Dark
-MODE:       Anonymous Professional / Profesional Anónimo
+MODE:       Anonymous Professional
 ```
 
----
+## 🛠️ **Technical Stack**
 
-## 🛠️ Technical Stack / Pila Tecnológica
-
-### 🔐 Security & Defense / Seguridad y Defensa
-
+### 🔐 **Security & Defense**
 ```python
 security_skills = {
     "cybersecurity": ["Network Security", "Vulnerability Analysis", "OSINT"],
@@ -39,44 +45,41 @@ security_skills = {
 }
 ```
 
-### 💻 Development & Programming / Desarrollo y Programación
+### 💻 **Development & Programming**
+<div align="center">
 
-| **Language / Lenguaje** | **Level / Nivel** | **Specialties / Especialidades** |
-|--------------------------|-------------------|----------------------------------|
-| 🐍 Python | Advanced / Avanzado | Data Analysis, Automation, Bots, PyGame |
-| 🔧 C++ | Intermediate / Intermedio | Algorithms, Data Structures |
-| 🗃️ SQL | Intermediate / Intermedio | Database Management, Queries |
-| 📝 Markdown | Advanced / Avanzado | Documentation, Technical Writing |
+| **Language** | **Level** | **Specialties** |
+|--------------|-----------|-----------------|
+| `🐍 Python` | Intermediate | Data Analysis, Automation, Bots, PyGame |
+| `🔧 C++` | Intermediate | Algorithms, Data Structures |
+| `🗃️ SQL` | Intermediate | Database Management, Queries |
+| `📝 Markdown` | Advanced | Documentation, Technical Writing |
 
----
+</div>
 
-### 📊 Data & Analysis / Datos y Análisis
-
+### 📊 **Data & Analysis**
 ```bash
-# Analysis Tools / Herramientas de Análisis
+# Analysis Tools
 ├── Python Data Stack (Pandas, NumPy)
-├── Excel Advanced Processing / Procesamiento avanzado en Excel
+├── Excel Advanced Processing
 ├── CSV/JSON Data Manipulation
-├── Statistical Analysis / Análisis Estadístico
-└── Data Visualization / Visualización de Datos
+├── Statistical Analysis
+└── Data Visualization
 ```
 
----
-
-### 🎮 Community & Management / Comunidad y Gestión
-
-- **Discord Senior Moderator / Moderador Senior de Discord**  
-- **Bot Development / Desarrollo de Bots** – Automatización y moderación  
-- **Project Coordination / Coordinación de Proyectos** – Metodología SCRUM  
-- **Technical Documentation / Documentación Técnica** – UML, PlantUML  
+### 🎮 **Community & Management**
+- **Discord Senior Moderator** - Large community management
+- **Bot Development** - Custom automation solutions
+- **Project Coordination** - SCRUM Methodology
+- **Technical Documentation** - UML, PlantUML
 
 ---
 
-## 📈 GitHub Analytics / Analíticas GitHub
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FFFF)
+![s1lence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1lence-hlm&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lence-hlm&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF)
 
@@ -84,86 +87,92 @@ security_skills = {
 
 ---
 
-## 🚀 Featured Projects / Proyectos Destacados
+## 🚀 **Featured Projects**
 
-### 🔒 Security Tools / Herramientas de Seguridad
+### 🔒 Security Tools
 ```bash
 📁 security-tools/
-├── hash-analyzer/          # Cryptographic hash analysis / Análisis de hash
-├── network-scanner/        # Network reconnaissance / Exploración de red
-└── data-anonymizer/        # Privacy protection toolkit / Protección de datos
+├── hash-analyzer/          # Cryptographic hash analysis
+├── network-scanner/        # Basic network reconnaissance
+└── data-anonymizer/        # Privacy protection toolkit
 ```
 
-### 🤖 Discord Ecosystem / Ecosistema Discord
+### 🤖 Discord Ecosystem
 ```bash
 📁 discord-bots/
-├── moderation-bot/         # Community management / Moderación avanzada
-├── analytics-bot/          # Server statistics / Estadísticas de servidor
-└── automation-bot/         # Workflow automation / Automatización
+├── moderation-bot/         # Advanced community management
+├── analytics-bot/          # Server statistics & insights
+└── automation-bot/         # Custom workflow automation
 ```
 
-### 📊 Data Analysis / Análisis de Datos
+### 📊 Data Analysis
 ```bash
 📁 data-projects/
-├── csv-processor/          # CSV manipulation / Manipulación avanzada
-├── data-visualizer/        # Terminal-based charts / Gráficos en terminal
-└── statistical-tools/      # Analysis utilities / Utilidades estadísticas
+├── csv-processor/          # Advanced CSV manipulation
+├── data-visualizer/        # Terminal-based charts
+└── statistical-tools/      # Analysis utilities
 ```
 
 ---
 
-## 🌐 Digital Presence / Presencia Digital
+## 🌐 **Digital Presence**
 
-| **Platform / Plataforma** | **Purpose / Propósito** | **Status / Estado** |
-|----------------------------|-------------------------|----------------------|
-| 🔄 GitHub | Code Portfolio / Portafolio de Código | **Active** |
-| 🌐 Neocities | Personal Website / Sitio Web Personal | **Developing** |
-| 💬 Discord | Community Interaction / Comunidad | **Active** |
-| 🔗 LinkedIn | Professional Network / Red Profesional | **Anonymous** |
+<div align="center">
+
+| **Platform** | **Purpose** | **Status** |
+|--------------|-------------|------------|
+| `🔄 GitHub` | Code Portfolio | **Active** |
+| `🌐 Neocities` | Personal Website | **Developing** |
+| `💬 Discord` | Community Interaction | **Active** |
+| `🔗 LinkedIn` | Professional Network | **Anonymous** |
+
+</div>
 
 ---
 
-## 🎯 Currently Focused On / Enfoques Actuales
+## 🎯 **Currently Focused On**
 
 ```python
 current_projects = [
-    "🔒 Advancing Cybersecurity knowledge / Ampliando conocimientos en Ciberseguridad",
-    "🐍 Developing Python security tools / Desarrollando herramientas de seguridad en Python", 
-    "📊 Building data analysis frameworks / Creando frameworks de análisis de datos",
-    "🤖 Enhancing Discord bot ecosystem / Mejorando ecosistema de bots Discord",
-    "🌐 Maintaining digital privacy / Manteniendo privacidad digital"
+    "🔒 Advancing Cybersecurity knowledge",
+    "🐍 Developing Python security tools", 
+    "📊 Building data analysis frameworks",
+    "🤖 Enhancing Discord bot ecosystem",
+    "🌐 Maintaining digital privacy"
 ]
 
 current_learning = [
-    "Advanced Network Security / Seguridad de redes avanzada",
-    "Chinese Language Studies / Estudios de chino",
-    "Cryptography Fundamentals / Fundamentos de criptografía",
-    "Linux System Administration / Administración de sistemas Linux"
+    "Advanced Network Security",
+    "Chinese Language Studies",
+    "Cryptography Fundamentals",
+    "Linux System Administration"
 ]
 ```
 
 ---
 
-## 📫 Contact Protocol / Protocolo de Contacto
+## 📫 **Contact Protocol**
 
-**For secure communication / Para comunicación segura:**
+<div align="center">
+
+**For secure communication:**
 
 ```bash
-# PGP Key Available Upon Request / Clave PGP disponible a solicitud
-echo "Contact through GitHub issues or professional channels"
+# PGP Key Available Upon Request
+echo "Contact through GitHub issues or professional networks"
 ```
 
-**⚠️ Identity Notice / Aviso de Identidad:**  
-*This profile represents a professional digital entity focused on technical contributions while maintaining privacy boundaries.*  
-*Este perfil representa una entidad digital profesional centrada en contribuciones técnicas, preservando la privacidad.*
+**⚠️ Identity Notice:**
+*This profile represents a professional digital entity focused on technical contributions while maintaining privacy boundaries.*
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎨 System Theme / Tema del Sistema
-*Terminal Minimalist — Inspired by Yoshito Kikuchi*  
-*Minimalismo de Terminal — Inspirado en Yoshito Kikuchi*
+### 🎨 **System Theme: Terminal Minimalist**
+*Inspired by Yoshito Kikuchi - Observing, Analyzing, Perfecting*
 
 ```bash
 # System shutdown...
@@ -171,8 +180,7 @@ $ exit
 Connection closed by remote host.
 ```
 
-**"In silence, we observe. In observation, we understand."**  
-**"En el silencio observamos. En la observación comprendemos."**
+**"In silence, we observe. In observation, we understand."**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=s1lence-hlm&color=00FF00&style=flat-square)
 
