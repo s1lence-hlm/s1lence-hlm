@@ -1,14 +1,22 @@
-# Hola, soy s1lence 👋
+<h1 align="center">
+  <img src="https://img.shields.io/badge/s1lence-%2300FF00.svg?style=for-the-badge&logo=terminal&logoColor=white" alt="s1lence"/>
+</h1>
 
-**Ciberseguridad Enthusiast & Python Developer**
+<p align="center">
+  <code>s1lence@digital:~$ whoami</code>
+</p>
 
-- 🔭 Actualmente trabajando en: Mi portafolio de ciberseguridad y bots de Discord.
-- 🌱 Aprendiendo: **Criptografía aplicada** y **Análisis de malware**.
-- 👯 Busco colaborar en: Proyectos de OSINT y herramientas de automatización.
-- 💬 Pregúntame sobre: Python, Análisis de Datos, Gestión de Servidores Discord.
-- ⚡ Fun fact: Artista digital en secreto y estudiante perpetuo de idiomas.
+<h3 align="center">
+  <code>Cybersecurity Analyst | Python & C++ Developer | Terminal Philosopher</code>
+</h3>
 
-`s1lence$ cat skills.txt`
-**Lenguajes:** Python, C++, SQL
-**Ciberseguridad:** Hash Analysis, Cryptography, Linux Hardening
-**Herramientas:** Git, VS Code, OracleVM, Wireshark, PlantUML
+---
+
+## 🖥️ <code>$ cat about_me.txt</code>
+
+```bash
+Name: s1lence
+Role: Cybersecurity Engineering Student
+Focus: Defensive Security, Data Analysis, Tool Development
+Philosophy: "Observe. Analyze. Protect. In silence lies clarity."
+Languages: Spanish (Native) | English (Intermediate) | 中文 (Basic) | 日本語 (Basic)
