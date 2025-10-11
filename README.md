@@ -1,98 +1,142 @@
-# 🧩 s1lence — Terminal Portfolio
-
 <h1 align="center">
-  <img src="https://img.icons8.com/ios/50/00FF00/command-line.png" width="35"/>
-  <br>
-  <b>s1lence</b>
+  <img src="https://img.icons8.com/ios/50/00FF00/console.png" width="30" />
+  s1lence
 </h1>
-
 <p align="center">
-  <i>Cybersecurity Analyst | Python & C++ Developer | Digital Minimalist</i>
+  <i>Observador del sistema digital | Analista metódico | Voz en código</i>
 </p>
 
 ---
 
-## 🧠 `whoami`
+### 🧭 Objetivo Principal
+> **Portafolio profesional anónimo**, centrado en:
+- Ciberseguridad, análisis de datos y desarrollo técnico.
+- Presencia en comunidades técnicas (Discord, Neocities, SpaceHey, foros).
+- Marca personal en GitHub mediante proyectos, herramientas y documentación.
+- Identidad narrativa: el **observador silencioso** — reflexivo, preciso y reservado.
+- Sitio web personal con estética terminal y reflexiones sobre sistemas.
+
+---
+
+### 🎨 Estilo Visual y Comunicativo
+
+**Estética Principal**
+- Interfaz tipo **terminal**: fondo `#0D0D0D`, texto `#00FF00`, acentos `#00FFFF`.
+- Tipografía: `JetBrains Mono`, `Monaco`, `Consolas`.
+- Recursos visuales: ASCII art, diagramas **PlantUML**, diseño minimalista.
+
+**Tono Comunicativo**
+- Precisión técnica → sin adornos innecesarios.  
+- Reflexión filosófica → sobre privacidad, sistemas y tecnología.  
+- Humor seco y referencias sutiles → cultura tech y anime.  
+- Reservado pero accesible → “el que calla, analiza”.
+
+---
+
+### 🧠 Áreas de Enfoque Profesional
+
+#### 🔐 Ciberseguridad & Seguridad Digital
+- Ingeniería en Ciberseguridad *(en formación)*  
+- Criptografía básica y algoritmos hash  
+- Análisis de vulnerabilidades  
+- Hardening de sistemas operativos  
+- OSINT (Open Source Intelligence)  
+- Seguridad en redes y comunicaciones  
+
+---
+
+#### 💻 Programación & Desarrollo
 
 ```python
-class s1lence:
-    def __init__(self):
-        self.alias = "s1lence"
-        self.role = "Cybersecurity Student & Analyst"
-        self.location = "Chile"
-        self.stack = ["Python", "C++", "SQL", "Bash"]
-        self.os = ["Linux Mint", "Ubuntu", "Windows"]
-        self.focus = [
-            "Cybersecurity & Privacy",
-            "Python Automation",
-            "Data Analysis",
-            "OSINT",
-            "Digital Art"
-        ]
+# Habilidades Python destacadas
+python_skills = [
+    "CSV Processing", "Data Generation", "Algorithm Implementation",
+    "File Handling", "Logging Systems", "Error Handling", 
+    "String Manipulation", "Data Validation", "Randomization Algorithms",
+    "Date/Time Handling", "Weighted Random Selection", "Modulo 11 Algorithm",
+    "Data Normalization", "Configuration Management", "Modular Programming",
+    "Input Validation", "Identity Generation", "Data Synthesis",
+    "Regional Data Processing", "Chilean RUT System", "Geographic Data",
+    "Demographic Modeling", "Code Documentation", "Error Recovery",
+    "User Interface", "Batch Processing", "Data Export", "Professional Logging",
+    "Pygame", "Discord Bots", "Data Analysis", "Excel Automation"
+]
 ```
 
----
-
-## 🛠️ `skills`
-
-| Category | Skills |
-|:----------|:--------|
-| **Security & Networks** | Wireshark, Hash Analysis, Cryptography, OSINT, Linux Hardening |
-| **Programming** | Python, C++, SQL, Bash, Discord Bots |
-| **Data & Analysis** | Pandas, Excel Automation, CSV Processing |
-| **Tools** | VS Code, PlantUML, Oracle VM, Git, Neocities |
-| **Languages** | Español 🇨🇱, English 🇬🇧, 中文 🇨🇳, 日本語 🇯🇵 |
+**Lenguajes y Entornos**
+- **Python**: desarrollo de scripts, automatización, análisis, bots.  
+- **C++**: estructuras de datos (árboles binarios, arrays), algoritmos.  
+- **SQL**: consultas, gestión de bases de datos.  
+- **Scripting**: automatización de procesos y manejo de datos.  
 
 ---
 
-## 📂 `projects/`
-
-| Type | Project | Description |
-|:------|:---------|:-------------|
-| 🐍 Python | `rut-generator-cl` | Generador de RUT chilenos con módulo 11 |
-| 🤖 Discord Bot | `discord-logbot` | Moderación y registro automatizado de logs |
-| 📊 Data | `data-normalizer` | Limpieza y normalización de datasets |
-| ⚙️ Simulación | `quality-control-sim` | Proceso de control de calidad industrial |
-| 🎮 Pygame | `pixel-art-maker` | Herramienta para arte pixelado |
+#### 📊 Análisis de Datos & Herramientas
+- Análisis cuantitativo y cualitativo  
+- Procesamiento y limpieza de datos  
+- Visualización y reportes técnicos  
+- Documentación de especificaciones funcionales  
 
 ---
 
-## 🧾 `timeline`
+#### 🛠️ Sistemas & Infraestructura
+**Sistemas Operativos**
+- Linux Mint / Ubuntu → configuración, administración, hardening  
+- Windows 10/11 → optimización, soporte técnico  
+- Virtualización: OracleVM, emulación Android  
+- Herramientas remotas: AnyDesk, TeamViewer  
 
-```bash
-* 2024 - Present : Engineering in Cybersecurity @ INACAP
-* 2023 - 2024    : Technical Practice - Quality Control @ GESTIRIEGO
-* 2022 - 2023    : Industrial Chemistry Technician @ Padre Alberto Hurtado
-* 2021 - 2022    : Started programming journey with Python
+**Mantenimiento IT**
+- Soporte técnico avanzado  
+- Optimización de sistemas  
+- Configuración de entornos seguros  
+
+---
+
+#### 🎨 Herramientas de Desarrollo & Oficina
+- **Office**: Word, PowerPoint, Excel (avanzado), Visio  
+- **Modelado**: PlantUML, Oracle Developer, Oracle Modeler  
+- **Entorno**: Visual Studio Code  
+- **Diseño**: dibujo tradicional y digital *(Paint Tool SAI)*  
+
+---
+
+#### 🌐 Gestión de Comunidades & Habilidades Blandas
+- **Moderación Senior (Discord)**  
+  - Staff en comunidades como *Dylantero*, *MoaiGr*, *DeepVoid*  
+  - Administración, configuración y soporte TI  
+  - Coordinación de equipos y metodologías ágiles (SCRUM)  
+  - Diagramado UML y documentación de procesos  
+
+---
+
+### 💬 Filosofía Personal
+> “El silencio no es ausencia.  
+> Es observación.  
+> En la red, el que escucha más... comprende mejor.”
+
+---
+
+### 📂 Proyectos Destacados
+- 🔹 **Generador de Identidades Chilenas** → Datos sintéticos y RUT válidos 🇨🇱  
+- 🔹 **Herramientas OSINT** → Investigación y análisis de información pública  
+- 🔹 **Discord Bot Tools** → Automatización, moderación y utilidades de servidor  
+- 🔹 **Scripts Python** → Procesamiento, validación y manipulación de datos  
+
+---
+
+### 🛰️ Contacto y Presencia
 ```
-
----
-
-## 🎨 `hobbies.log`
-
-```bash
-🎨 Drawing (Digital + Traditional)
-🌐 Language Learning (Chinese, Japanese)
-🎮 Modding & Custom Game Design
-📚 Technical Reading
-🧪 Home Lab Experiments
+> ping s1lence-hlm
+> reply: "active"
 ```
+- 🌐 [Neocities](#)  
+- 💬 Discord: `s1lence#XXXX`  
+- 🧠 Espacios técnicos: foros, SpaceHey, GitHub Discussions  
 
 ---
-
-## 📡 `contact/`
-
-| Platform | Handle |
-|:----------|:--------|
-| 📧 Email | s1lence@protonmail.com |
-| 🌐 Web | [s1lence.neocities.org](https://s1lence.neocities.org) |
-| 💬 Discord | s1lence |
-| 🔗 LinkedIn | coming soon |
 
 <p align="center">
-  <i>"Observe. Analyze. Protect. In silence lies clarity."</i>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=s1lence.profile" />
+  <sub><i>“Observa, comprende, ejecuta.  
+  No todo código necesita ser visto para existir.”</i></sub>
 </p>
