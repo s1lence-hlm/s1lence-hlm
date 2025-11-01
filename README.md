@@ -30,8 +30,6 @@
 USER:       s1lence
 ROLE:       Cybersecurity Engineering Student
 STATUS:     Observing | Analyzing | Coding
-THEME:      Terminal Dark
-MODE:       Anonymous Professional
 ```
 
 ## 🛠️ **Technical Stack**
